@@ -38,4 +38,10 @@ header nav {
 }
 
 
-
+#details div {
+    width: 25%;
+    display: block;
+    float: left;
+    background-color: #03a9f4a6;
+    color: white;
+}
