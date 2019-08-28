@@ -35,7 +35,6 @@ header nav {
 
 #details {
       text-align: center;
-      color: white;
 }
 
 
@@ -45,4 +44,8 @@ header nav {
     float: left;
     background-color: #03a9f4a6;
     color: white;
+}
+
+#details a {
+  color: white;
 }
